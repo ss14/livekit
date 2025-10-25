@@ -22,7 +22,6 @@ require (
 	github.com/jellydator/ttlcache/v3 v3.4.0
 	github.com/jxskiss/base62 v1.1.0
 	github.com/livekit/mageutil v0.0.0-20250511045019-0f1ff63f7731
-	github.com/livekit/mediatransportutil v0.0.0-20250922175932-f537f0880397
 	github.com/livekit/protocol v1.42.3-0.20251022084609-f19569a346e2
 	github.com/livekit/psrpc v0.7.0
 	github.com/mackerelio/go-osstat v0.2.6
@@ -67,6 +66,7 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.1.0 // indirect
 	github.com/moby/sys/user v0.3.0 // indirect
 	github.com/nyaruka/phonenumbers v1.6.5 // indirect
+	github.com/ss14/mediatransportutil v0.0.0-20251025125537-d2baf7fb3f63 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/otel v1.37.0 // indirect
 	go.opentelemetry.io/otel/metric v1.37.0 // indirect

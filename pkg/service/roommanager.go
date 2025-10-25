@@ -27,7 +27,6 @@ import (
 	"github.com/livekit/livekit-server/pkg/agent"
 	"github.com/livekit/livekit-server/pkg/sfu"
 	sutils "github.com/livekit/livekit-server/pkg/utils"
-	"github.com/livekit/mediatransportutil/pkg/rtcconfig"
 	"github.com/livekit/protocol/auth"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
@@ -38,6 +37,7 @@ import (
 	"github.com/livekit/protocol/utils/must"
 	"github.com/livekit/psrpc"
 	"github.com/livekit/psrpc/pkg/middleware"
+	"github.com/ss14/mediatransportutil/pkg/rtcconfig"
 
 	"github.com/livekit/livekit-server/pkg/clientconfiguration"
 	"github.com/livekit/livekit-server/pkg/config"

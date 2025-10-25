@@ -21,7 +21,7 @@ import (
 	"github.com/livekit/livekit-server/pkg/config"
 	"github.com/livekit/livekit-server/pkg/sfu/buffer"
 	dd "github.com/livekit/livekit-server/pkg/sfu/rtpextension/dependencydescriptor"
-	"github.com/livekit/mediatransportutil/pkg/rtcconfig"
+	"github.com/ss14/mediatransportutil/pkg/rtcconfig"
 )
 
 const (

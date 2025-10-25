@@ -25,11 +25,11 @@ import (
 	"github.com/redis/go-redis/v9"
 	"github.com/twitchtv/twirp"
 
-	"github.com/livekit/mediatransportutil/pkg/rtcconfig"
 	"github.com/livekit/protocol/auth"
 	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/protocol/utils/guid"
+	"github.com/ss14/mediatransportutil/pkg/rtcconfig"
 
 	"github.com/livekit/livekit-server/pkg/config"
 	"github.com/livekit/livekit-server/pkg/routing"

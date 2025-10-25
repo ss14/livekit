@@ -36,7 +36,7 @@ import (
 	"github.com/livekit/livekit-server/pkg/sfu/connectionquality"
 	"github.com/livekit/livekit-server/pkg/sfu/mime"
 	"github.com/livekit/livekit-server/pkg/telemetry"
-	util "github.com/livekit/mediatransportutil"
+	util "github.com/ss14/mediatransportutil"
 )
 
 var _ types.LocalMediaTrack = (*MediaTrack)(nil)
