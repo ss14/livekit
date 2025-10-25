@@ -45,7 +45,7 @@ require (
 	github.com/prometheus/client_golang v1.23.0
 	github.com/redis/go-redis/v9 v9.14.1
 	github.com/rs/cors v1.11.1
-	github.com/ss14/mediatransportutil v0.0.0-20251025131011-f5d50e2fb58f
+	github.com/ss14/mediatransportutil v0.0.0-20251025172821-98c1fba5f0a6
 	github.com/stretchr/testify v1.11.1
 	github.com/thoas/go-funk v0.9.3
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80

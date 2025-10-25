@@ -295,6 +295,8 @@ github.com/sirupsen/logrus v1.9.3 h1:dueUQJ1C2q9oE3F7wvmSGAaVtTmUizReu6fjN8uqzbQ
 github.com/sirupsen/logrus v1.9.3/go.mod h1:naHLuLoDiP4jHNo9R0sCBMtWGeIprob74mVsIT4qYEQ=
 github.com/ss14/mediatransportutil v0.0.0-20251025131011-f5d50e2fb58f h1:0oYKQXp4FhHf9dHWS3ykntIZN6Hcl9frAoYW6OW812U=
 github.com/ss14/mediatransportutil v0.0.0-20251025131011-f5d50e2fb58f/go.mod h1:3md6t2AVrUqg2CT4h3YuXZEv1TZhS+ENBreVLnM4UNs=
+github.com/ss14/mediatransportutil v0.0.0-20251025172821-98c1fba5f0a6 h1:gloCo1aZmMKGvWMzU5wEZtymfTrzM7lQjSOAOTH3170=
+github.com/ss14/mediatransportutil v0.0.0-20251025172821-98c1fba5f0a6/go.mod h1:3md6t2AVrUqg2CT4h3YuXZEv1TZhS+ENBreVLnM4UNs=
 github.com/stoewer/go-strcase v1.3.1 h1:iS0MdW+kVTxgMoE1LAZyMiYJFKlOzLooE4MxjirtkAs=
 github.com/stoewer/go-strcase v1.3.1/go.mod h1:fAH5hQ5pehh+j3nZfvwdk2RgEgQjAoM8wodgtPmh1xo=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
